@@ -1,7 +1,7 @@
 # Kattis
 
 ## Overview
-My solutions for problem sets on Kattis.
+My folder contains my submissions for problem sets on Kattis.
 
 ### Easy
 | Problem Set                                                                 | Code                                                                                                       |
