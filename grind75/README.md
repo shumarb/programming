@@ -1,4 +1,4 @@
-# Grind75
+# Grind 75
 
 ## Overview
 This repository contains my solutions to the [Grind75](https://www.techinterviewhandbook.org/grind75/) list.
