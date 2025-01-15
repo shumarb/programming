@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
-class Candies {
+class AnotherCandies {
 
     private void run() {
         Scanner sc = new Scanner(System.in);
