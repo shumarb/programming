@@ -1,7 +1,7 @@
 # Grind 75
 
 ## Overview
-This repository contains my solutions to the [Grind75](https://www.techinterviewhandbook.org/grind75/) list.
+This folder contains my solutions to the [Grind 75](https://www.techinterviewhandbook.org/grind75/) list.
 
 All entries are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 

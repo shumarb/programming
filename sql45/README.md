@@ -1,7 +1,8 @@
 # SQL 45
 
 ## Overview
-This repository contains my solutions to the [SQL 45](https://leetcode.com/problem-list/o2qifkts/) list, with entries sorted alphabetically by question title.
+This folder contains my solutions to the [SQL 45](https://leetcode.com/problem-list/o2qifkts/) list,
+with entries sorted alphabetically by question title.
 
 All entries are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
@@ -18,7 +19,8 @@ Completed: 8/45.
 | 4 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)                                                      | [SQL](https://github.com/shumarb/leetcode/blob/main/easy/sql/customers_who_never_order.sql)                      | 908ms   | 93.29% |
 | 5 | [Customers Placing The Largest Number Of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/) | [SQL](https://github.com/shumarb/leetcode/blob/main/easy/sql/customers_placing_the_largest_number_of_orders.sql) | 799ms   | 87.57% |
 | 6 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/)        | [SQL](https://github.com/shumarb/leetcode/blob/main/easy/sql/employees_earning_more_than_their_managers.sql)     | 1429ms  | 10.98% |
-| 7 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                          | [SQL](https://github.com/shumarb/leetcode/blob/main/easy/sql/not_boring_movies.sql)                              | 495ms   | 47.80% |
+| 7 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)                                                                | [SQL](https://github.com/shumarb/leetcode/blob/main/easy/sql/employee_bonus.sql)                                 | 1659ms  | 64.38% |
+| 8 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)                                                          | [SQL](https://github.com/shumarb/leetcode/blob/main/easy/sql/not_boring_movies.sql)                              | 495ms   | 47.80% |
 
 ### Medium
 | # | Question                                                                      | Submission                                                                                | Runtime | Rank   |
