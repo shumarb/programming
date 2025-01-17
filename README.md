@@ -18,4 +18,5 @@ This repository contains my competitive programming submissions and learning sou
 | Challenges                                                           |
 |----------------------------------------------------------------------|
 | [Grind 75](https://github.com/shumarb/programming/tree/main/grind75) |
+| [Math](https://github.com/shumarb/programming/tree/main/math)        | 
 | [SQL 45](https://github.com/shumarb/programming/tree/main/sql45)     | 
