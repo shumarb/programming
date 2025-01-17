@@ -2,7 +2,7 @@
 
 ## Overview
 This folder contains my solutions to the LeetCode [Math](https://leetcode.com/problem-list/math/) problem list,
-with entries sorted level of difficulty, followed by alphabetically by question title.
+with entries sorted alphabetically by question title.
 
 All entries are sourced from my [LeetCode](https://github.com/shumarb/leetcode) repository.
 
