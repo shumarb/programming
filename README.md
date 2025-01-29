@@ -15,9 +15,10 @@ This repository contains my competitive programming submissions and learning sou
 | [LeetCode](https://github.com/shumarb/leetcode)                        |
 
 ### Challenges
-| Challenges                                                             |
-|------------------------------------------------------------------------|
-| [Grind 75](https://github.com/shumarb/programming/tree/main/grind75)   |
-| [Grind 169](https://github.com/shumarb/programming/tree/main/grind169) |
-| [Math](https://github.com/shumarb/programming/tree/main/math)          | 
-| [SQL 45](https://github.com/shumarb/programming/tree/main/sql45)       | 
+| Challenges                                                                    |
+|-------------------------------------------------------------------------------|
+| [Grind 75](https://github.com/shumarb/programming/tree/main/grind75)          |
+| [Grind 169](https://github.com/shumarb/programming/tree/main/grind169)        |
+| [Math](https://github.com/shumarb/programming/tree/main/math)                 | 
+| [Two Pointers](https://github.com/shumarb/programming/tree/main/two-pointers) | 
+| [SQL 45](https://github.com/shumarb/programming/tree/main/sql45)              | 
