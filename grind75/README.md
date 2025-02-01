@@ -7,7 +7,7 @@ All entries are sourced from my [LeetCode](https://github.com/shumarb/leetcode) 
 
 (*Note*: Performance is the percentage of submissions that my code outperforms in terms of runtime.)
 
-Completed: 25/75.
+Completed: 24/75.
 
 | #  | Question                                                                                                                                     | Submission                                                                                                       | Runtime | Rank   |
 |----|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------|--------|
@@ -35,4 +35,3 @@ Completed: 25/75.
 | 65 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)                                                           | [Java](https://github.com/shumarb/leetcode/blob/main/easy/java/ContainsDuplicate.java)                           | 10ms    | 89.16% |
 | 68 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/)                                            | [Java](https://github.com/shumarb/leetcode/blob/main/medium/java/ContainerWithMostWater.java)                    | 5ms     | 74.40% |
 | 71 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)                                    | [Java](https://github.com/shumarb/leetcode/blob/main/medium/java/FindAllAnagramsInAString.java)                  | 9ms     | 91.31% |
-| 90 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)                                            | [Java](https://github.com/shumarb/leetcode/blob/main/medium/java/FindTheDuplicateNumber.java)                    | 4ms     | 88.06% |
